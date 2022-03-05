@@ -1,7 +1,13 @@
 ## Hi, I'm Maksim! 👋
 
 ### iOS Software Engineer at VK
+
+📙 Focusing on Swift & iOS
+
+🔨 Creator of applications and libraries
  
+🌱 Learning all about Software Design
+
 📫  Feel free to reach me:
 
 [![Email](https://img.shields.io/badge/Email-%40malyshev.maksim99@gmail.com%20-blue)](mailto:malyshev.maksim99@gmail.com?)
