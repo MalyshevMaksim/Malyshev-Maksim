@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Maksim!
+## Hi, I'm Maksim! 👋
 
 ### iOS Software Engineer
 
