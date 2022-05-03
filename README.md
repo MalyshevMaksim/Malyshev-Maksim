@@ -4,7 +4,7 @@
 
 📙 Focusing on Swift & iOS
 
-🔨 Creator of applications and libraries
+🔨 Creator of applications, libraries and frameworks
  
 🌱 Learning all about Software Design
 
