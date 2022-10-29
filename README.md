@@ -1,6 +1,6 @@
 ## Hi, I'm Maksim! 👋
 
-### iOS Software Engineer
+### Software Engineer
 
 📙 Focusing on Swift & iOS
 
